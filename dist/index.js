@@ -10059,7 +10059,7 @@ const finalErrorStatus = {
   deployment_lost: 'Deployment failed to report final status.'
 }
 
-const MAX_TIMEOUT = 600000
+const MAX_TIMEOUT = 6000000
 const ONE_GIGABYTE = 1073741824
 const SIZE_LIMIT_DESCRIPTION = '1 GB'
 
